@@ -46,3 +46,4 @@ def solution(A):
     # if counter is higher than the highest possible number of leaves, we know there is no solution
     return -1
 
+print(solution([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]))
